@@ -1,6 +1,7 @@
 ### Lucas Bomfim da Silva 👋
 ### Azure Data Engineer
 
+[Linkedin](https://www.linkedin.com/in/lucasbfs/)
 <!--
 **Lucas-sudo-dev/Lucas-sudo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
