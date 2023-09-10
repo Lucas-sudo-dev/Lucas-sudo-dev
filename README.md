@@ -2,7 +2,7 @@
 ### Azure Data Engineer
 
 
-### Perfil |
+Perfil    |
 --------- |
 Atuação com consultas SQL (Structured Query Language), com conhecimento em modelagem MER (Modelo Entidade Relacionamento) e Dimensional (Star schema), participação no desenvolvimento estrutural de Data Warehouse e Data Lakehouse (Data Marts, Camada Stage e ODS, Dimensões, Fatos, ETL/ELT, Dummy values), tendo conhecimentos teóricos e práticos de Business Intelligence, Big Data, Cloud Azure e uma capacidade de absorver novas tecnologias e conceitos rapidamente. |
 
