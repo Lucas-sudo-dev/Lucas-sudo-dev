@@ -1,12 +1,18 @@
 ## Lucas Bomfim da Silva
 ### Azure Data Engineer
 
+
+Perfil    |
+--------- |
 Atuação com consultas SQL (Structured Query Language), com conhecimento em modelagem
 MER (Modelo Entidade Relacionamento) e Dimensional (Star schema), participação no
 desenvolvimento estrutural de Data Warehouse e Data Lakehouse (Data Marts, Camada Stage e
 ODS, Dimensões, Fatos, ETL/ELT, Dummy values), tendo conhecimentos teóricos e práticos de
 Business Intelligence, Big Data, Cloud Azure e uma capacidade de absorver novas tecnologias e conceitos
-rapidamente.
+rapidamente. |
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
